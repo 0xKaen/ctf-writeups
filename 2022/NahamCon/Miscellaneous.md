@@ -34,4 +34,6 @@ Another 10 hours since reaching Samoa -> 180060 + 36000 = 216060 seconds.
 
 flag{216060}
 ## Thoughts
-This was probably the most mindblowing challenge for me, so much respect for the big brain challenge creator @Kkevsterrr#7469 for thinking of it. Really enjoyed it a lot 😆
+Even after I realised the trick, I didn't get the flag right away as I thought the difference in time between Samoa and American Samoa is 24h but in reality it's 25h, google lied to me grrrr 😠 Thanks to @ShyOnxD#8553 for pointing that out!
+
+Nevertheless, this was the most mindblowing challenge for me, so much respect for the big brain challenge creator @Kkevsterrr#7469 for thinking of it. Really enjoyed it a lot 😆 
